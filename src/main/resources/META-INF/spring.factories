@@ -1,0 +1,2 @@
+#�������ǵ��Զ��廷��������
+org.springframework.boot.env.EnvironmentPostProcessor=cn.xhp.MyEnvironmentPostProcessor
